@@ -1,3 +1,7 @@
 (function () {
-    angular.module('FirstApp', [] )
+    angular.module('FirstApp', [] ).controller('FirstController',function() {
+
+    })
+
+
 })();
